@@ -1,0 +1,14 @@
+C:\Users\batuh\source\repos\HashAndSaltConsoleApp\HashAndSaltConsoleApp\bin\Debug\net8.0\HashAndSaltConsoleApp.exe
+C:\Users\batuh\source\repos\HashAndSaltConsoleApp\HashAndSaltConsoleApp\bin\Debug\net8.0\HashAndSaltConsoleApp.deps.json
+C:\Users\batuh\source\repos\HashAndSaltConsoleApp\HashAndSaltConsoleApp\bin\Debug\net8.0\HashAndSaltConsoleApp.runtimeconfig.json
+C:\Users\batuh\source\repos\HashAndSaltConsoleApp\HashAndSaltConsoleApp\bin\Debug\net8.0\HashAndSaltConsoleApp.dll
+C:\Users\batuh\source\repos\HashAndSaltConsoleApp\HashAndSaltConsoleApp\bin\Debug\net8.0\HashAndSaltConsoleApp.pdb
+C:\Users\batuh\source\repos\HashAndSaltConsoleApp\HashAndSaltConsoleApp\obj\Debug\net8.0\HashAndSaltConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuh\source\repos\HashAndSaltConsoleApp\HashAndSaltConsoleApp\obj\Debug\net8.0\HashAndSaltConsoleApp.AssemblyInfoInputs.cache
+C:\Users\batuh\source\repos\HashAndSaltConsoleApp\HashAndSaltConsoleApp\obj\Debug\net8.0\HashAndSaltConsoleApp.AssemblyInfo.cs
+C:\Users\batuh\source\repos\HashAndSaltConsoleApp\HashAndSaltConsoleApp\obj\Debug\net8.0\HashAndSaltConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\batuh\source\repos\HashAndSaltConsoleApp\HashAndSaltConsoleApp\obj\Debug\net8.0\HashAndSaltConsoleApp.dll
+C:\Users\batuh\source\repos\HashAndSaltConsoleApp\HashAndSaltConsoleApp\obj\Debug\net8.0\refint\HashAndSaltConsoleApp.dll
+C:\Users\batuh\source\repos\HashAndSaltConsoleApp\HashAndSaltConsoleApp\obj\Debug\net8.0\HashAndSaltConsoleApp.pdb
+C:\Users\batuh\source\repos\HashAndSaltConsoleApp\HashAndSaltConsoleApp\obj\Debug\net8.0\HashAndSaltConsoleApp.genruntimeconfig.cache
+C:\Users\batuh\source\repos\HashAndSaltConsoleApp\HashAndSaltConsoleApp\obj\Debug\net8.0\ref\HashAndSaltConsoleApp.dll
